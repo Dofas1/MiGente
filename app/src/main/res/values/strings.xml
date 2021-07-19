@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MiGente</string>
+    <string name="Nombre">Nombre Completo</string>
+    <string name="FechaNac">Fecha Nacimiento</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Email">E-Mail</string>
+    <string name="DescCont">Descripcion Contacto</string>
+    <string name="Siguiente">Siguiente</string>
+
+    <string name="oncreate">OnCreate</string>
+    <string name="onstart">OnStart</string>
+    <string name="onresume">OnResume</string>
+    <string name="onrestart">OnRestart</string>
+    <string name="onpause">OnPause</string>
+    <string name="onstop">OnStop</string>
+    <string name="ondestroy">OnDestroy</string>
+
+    <string name="pFechaNac">FechaNac</string>
+    <string name="pDescripcion">Descripcion</string>
+    <string name="pEmail">Email</string>
+    <string name="pTelefono">Telefono</string>
+    <string name="pNombre">Nombre</string>
+
+</resources>
